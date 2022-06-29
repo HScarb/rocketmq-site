@@ -54,6 +54,15 @@ The following is a list of developers with commit privileges that have directly 
 |![nicholasjiang](/assets/images/about/nicholasjiang.jpg)|Nicholas Jiang| [@SteNicholas](https://github.com/SteNicholas)|nicholasjiang@apache.org|Committer| +8 |
 |![jianghaiting](/assets/images/about/jianghaiting.jpeg)|Haiting Jiang| [@Jason918](https://github.com/Jason918)|jianghaiting@apache.org|Committer| +8 |
 |![zhangyang](/assets/images/about/zhangyang.jpg)|zhangyang| [@Git-Yang](https://github.com/Git-Yang)|zhangyang@apache.org|Committer| +8 |
+|![panzhi33](/assets/images/about/panzhi.jpg)|Pan Zhi| [@panzhi33](https://github.com/panzhi33)|panzhi33@apache.org|Committer| +8 |
+|![tianliuliu](/assets/images/about/tianliuhe.png)|Liuhe Tian| [@tianliuliu](https://github.com/tianliuliu)|tianliuliu@apache.org|Committer| +8 |
+|![WangPing](/assets/images/about/pingww.jpg)|WangPing| [@pingww](https://github.com/pingww)|pingww@apache.org|Committer| +8 |
+|![write2me](/assets/images/about/write2me.jpeg)|Arthur Liang| [@speak2me](https://github.com/speak2me)|write2me@apache.org|Committer| +8 |
+|![caigy](/assets/images/about/caigy.jpg)|caigy| [@caigy](https://github.com/caigy)|caigy@apache.org|Committer| +8 |
+|![cserwen](/assets/images/about/cserwen.jpeg)|cserwen| [@cserwen](https://github.com/cserwen)|cserwen@apache.org|Committer| +8 |
+|![sunhangda](/assets/images/about/sunhangda.jpg)|lwclover| [@lwclover](https://github.com/lwclover)|lwclover@apache.org|Committer| +8 |
+|![karp](/assets/images/about/karp.jpg)|karp| [@Ni Ze](https://github.com/ni-ze)|karp@apache.org|Committer| +8 |
+|![Aaron Ai](/assets/images/about/aaronai.png)|Aaron Ai| [@aaron-ai](https://github.com/aaron-ai)|aaronai@apache.org|Committer| +8 |
 
 ### Top Contributors
 
@@ -63,4 +72,5 @@ There are a lot of contributors who improve the RocketMQ project through submiss
 |:---|:---|:---|:---|:---|:---|
 |![siyue](/assets/images/about/siyue.jpeg)|Khaidi Chu| [@XadillaX](https://github.com/XadillaX)|i@2333.moe|Contributor| +8 |
 |![githublaohu](/assets/images/about/hujie.png)|Hu Jie| [@githublaohu](https://github.com/githublaohu)|2372554140@qq.com|Contributor| +8 |
-|![panzhi33](/assets/images/about/panzhi.jpg)|Pan Zhi| [@panzhi33](https://github.com/panzhi33)|panzhi33@qq.com|Contributor| +8 |
+|![hzh0425](/assets/images/about/hzh0425.jpg)|Zhangheng huang| [@hzh0425](https://github.com/hzh0425) |642256541@qq.com|Contributor| +8 |
+
